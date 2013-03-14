@@ -13,7 +13,7 @@ package as3geometry.geom2D.vertices
 	 *
 	 * @author Alec McEachran
 	 */
-	public class VertexOnCircle extends Mutable implements VertexOnCircle
+	public class VertexOnCircle extends Mutable// implements VertexOnCircle
 	{
 		private var _circle:Circle;
 		private var _angle:Number;
